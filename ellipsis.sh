@@ -16,4 +16,5 @@ pkg.link() {
 pkg.install() {
 	./packer.sh
 	./nvidia.sh
+	./sensors.sh
 }
