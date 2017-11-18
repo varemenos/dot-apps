@@ -16,5 +16,6 @@ pkg.link() {
 pkg.install() {
 	./packer.sh
 	./nvidia.sh
+	./powerline-fonts.sh
 	./sensors.sh
 }
