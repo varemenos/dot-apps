@@ -12,3 +12,7 @@ pkg.link() {
 			;;
 	esac
 }
+
+pkg.install() {
+	./packer.sh
+}
