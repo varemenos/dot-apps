@@ -1,0 +1,13 @@
+{
+    "css.autoInsertVendorPrefixes": false,
+    "sass.autoInsertVendorPrefixes": false,
+    "scss.autoInsertVendorPrefixes": false,
+    "less.autoInsertVendorPrefixes": false,
+    "stylus.autoInsertVendorPrefixes": false,
+    "css.gradient.prefixes": "",
+    "css.webkitProperties": "",
+    "css.mozProperties": "",
+    "css.oProperties": "",
+    "css.msProperties": "",
+    "lorem.omitCommonPart": true
+}
